@@ -132,6 +132,7 @@ margin: 0px 0px 0px 0px;
 .gold {font-family:"Cardo"; font-size:17px; text-decoration: bold; color: #F3B969;}
 .blue {font-family:"Lato"; font-size:14px; text-decoration: bold; color: #71BADD;}
 .smol {font-family:"Lato"; font-size:10px; text-decoration: bold; color: #F3B969;}
+.smol a {font-family:"Lato"; font-size:10px; text-decoration: bold; color: #F3B969;}
 .goldline {text-decoration: underline #F3B969; z-index:3;}
 
 .journaltext h1{
