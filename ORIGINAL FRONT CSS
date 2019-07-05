@@ -1,0 +1,306 @@
+<div class="menu"><div class="dropdown"><div class="dropbtn">Main Directory</div><div class="dropdown-content"><a href="https://turfside.deviantart.com/journal/Group-Announcements-698768448">News & Updates</a><a href="https://www.deviantart.com/turfside/journal/Turfside-Code-of-Conduct-697422832">Code of Conduct</a><a href="fav.me/dbj50mk">How to Join</a><a href="https://www.deviantart.com/turfside/journal/Gameplay-Guide-798702253">Gameplay Guide</a><a href="https://docs.google.com/spreadsheets/d/1L7EvVqCtexShNg8V8uqzz0xOtc38_wKtF42NwJ5hshs/">The Registry</a></div></div><div class="dropdown"><div class="dropbtn">Turfside Banking</div><div class="dropdown-content"><a href="https://www.deviantart.com/turfside/journal/Turfside-Currency-System-800137561">Currency System</a><a href="https://www.deviantart.com/comments/1/798700724/4735815045">Transfer Terminal</a><a href="https://docs.google.com/spreadsheets/d/1L7EvVqCtexShNg8V8uqzz0xOtc38_wKtF42NwJ5hshs/edit#gid=0">The Vault</a></div></div><div class="dropdown"><div class="dropbtn">Marketplace</div><div class="dropdown-content"><a href="http://fav.me/dd8gejr">Marketplace</a><a href="https://www.deviantart.com/comments/1/798700724/4748594231">Purchasing Thread</a><a href="https://www.deviantart.com/comments/1/798700724/4735814978">Item Usage</a><a href="https://www.deviantart.com/comments/1/798700724/4735815108">Companion Transfers</a><a href="http://fav.me/ddadtlf">Horse Buy Back</a></div></div><div class="dropdown"><div class="dropbtn">Stable Expansion</div><div class="dropdown-content"><a href="https://docs.google.com/spreadsheets/d/1L7EvVqCtexShNg8V8uqzz0xOtc38_wKtF42NwJ5hshs/edit#gid=0">Stable Information</a><a href="https://www.deviantart.com/comments/1/798611364/4735805354">Stall Purchasing Thread</a><a href="https://www.deviantart.com/turfside/journal/Turfside-Custom-Horses-Market-798475095">Custom Horse Purchasing</a><a href="https://www.deviantart.com/turfside/journal/Turfside-Auction-House-798475135">Horse Auctions</a></div></div><div class="dropdown"><div class="dropbtn">Vet's Office</div><div class="dropdown-content"><a href="https://www.deviantart.com/turfside/journal/Turfside-Stats-Traits-Injuries-800175640">About Injuries</a><a href="https://www.deviantart.com/comments/1/798697742/4735806024">Vet Checks</a><a href="https://www.deviantart.com/comments/1/798697742/4735806308">Healing-Stat Deducation</a></div></div><div class="dropdown"><div class="dropbtn">Training Center</div><div class="dropdown-content"><a href="https://www.deviantart.com/turfside/journal/Turfside-Stats-Traits-Injuries-800175640">Stats & Traits</a><a href="https://www.deviantart.com/comments/1/798609698/4735584072">Train Leasing</a><a href="https://www.deviantart.com/turfside/journal/Turfside-Player-Limits-Trainers-Jockeys-Leasing-800137584">Trainer Info</a><a href="https://www.deviantart.com/comments/1/798609698/4749216659">Trainer Hiring</a><a href="https://www.deviantart.com/comments/1/798609698/4748690224">Training Center</a><a href="https://www.deviantart.com/turfside/journal/Turfside-Division-Brackets-800137522">Division Brackets</a><a href="https://www.deviantart.com/comments/1/798611364/4735587058">Division Promotion</a></div></div><div class="dropdown"><div class="dropbtn">Race Track</div><div class="dropdown-content"><a href="https://www.deviantart.com/turfside/journal/Turfside-Training-Racing-Average-Consistency-800175628">Consistency</a><a href="https://www.deviantart.com/comments/1/798610705/4735585940">Race Leasing</a><a href="https://www.deviantart.com/turfside/journal/Turfside-Player-Limits-Trainers-Jockeys-Leasing-800137584">Jockey Info</a><a href="https://www.deviantart.com/comments/1/798609698/4749216659">Jockey Hiring</a><a href="https://www.deviantart.com/comments/1/798610705/4748690799">Ghost Racing</a><a href="https://www.deviantart.com/turfside/journal/Turfside-Division-Brackets-800137522">Division Brackets</a><a href="https://www.deviantart.com/turfside/journal/Turfside-Public-Races-801120093">Public Race Info</a><a href="https://www.deviantart.com/turfside/journal/Public-Race-Entries-801881523">Public Race Entries</a><a href="https://www.deviantart.com/comments/1/801092423/4741881324">Entry Form</a><a href="https://www.deviantart.com/comments/1/801092423/4741884864">Wagering Window</a><a href="https://www.deviantart.com/comments/1/801092423/4741888274">Claiming Window</a></div></div><div class="dropdown"><div class="dropbtn">Breeding</div><div class="dropdown-content"><a href="https://www.deviantart.com/turfside/journal/Turfside-Aging-Breeding-Inheritance-800175665">Breeding Information</a><a href="https://docs.google.com/spreadsheets/d/1L7EvVqCtexShNg8V8uqzz0xOtc38_wKtF42NwJ5hshs/edit#gid=2026396842">NPC Registry/Breeding Log</a><a href="https://www.deviantart.com/comments/1/798698498/4735808104">Booking Thread</a><a href="https://www.deviantart.com/comments/1/798698498/4735808020">Breeding Requests</a><a href="https://docs.google.com/spreadsheets/d/1AIb4O65weeV30oBOP2cxirGvvUuXH2HwBlPkBn3Nqws/edit#gid=1088755790">Breeding Log</a></div></div></div>
+
+.menu{
+background: #d3d899;
+padding: 15px;
+height: 35px;
+margin: -3px -10px -42px;
+padding: 0;
+}
+
+.dropbtn {
+color: #000000;
+font-family: "Patrick Hand";
+background-color: transparent;
+padding: 4px 5px;
+margin: 0 5px;
+font-size: 18px;
+border: none;
+cursor: pointer;
+min-width:90px;
+width: auto;
+display: inline-block;
+transition: all 0.5s;
+}
+
+.dropdown {
+z-index: 100;
+position: relative;
+display: inline-block;
+transition: all 0.5s;
+}
+
+.dropdown-content {
+display: none;
+position: absolute;
+background: #d3d899;
+color: #000000;
+min-width: 120px;
+max-width: 160px;
+font-family: "Patrick Hand";
+font-weight: normal!important;
+font-size: 18px;
+}
+
+.dropdown-content a, .dropdown-content a.external {
+color: #000000;
+padding: 8px;
+text-decoration: none;
+display: block;
+transition: all 0.5s;
+font-weight: normal!important;
+}
+.dropdown-content a:hover, .dropdown-content a.external:hover {
+transition: all 0.3s;
+color: #EDE9DD!important;
+text-decoration: none;}
+
+.dropdown:hover .dropdown-content {
+font-weight: normal!important;
+display: block;
+}
+
+.dropdown:hover .dropbtn {
+font-weight: normal!important;
+color: #EDE9DD!important;
+}
+
+
+/* *************************************************************************** */
+
+
+.journaltop {
+background: url("https://orig08.deviantart.net/09cb/f/2017/234/0/7/header_by_uszatyarbuz-dbl0idg.png") no-repeat;
+background-position: top center;
+color: transparent;
+text-align: center;
+height: 400px;
+margin: 0px 0 0 0;
+}
+
+.journaltop span{display: none;}
+.journaltop img{ display: none;} 
+.journaltop h2{ 
+font-family: "Raleway";  
+color: #000;
+font-weight: light!important;
+font-size: 12px; 
+text-align: center;
+margin: 0px 0 -50px 0; 
+}
+.journaltop h2 a{display: none;}
+
+.journalbox{ 
+background: transparent;
+margin: auto;
+padding: 0px 0 0px 0;
+border: none;
+max-width: 1950px;
+} 
+
+.journaltext{ 
+background: none;
+color: #000;
+font-size: 15px;
+font-family: "Patrick Hand";
+text-align: center;
+padding: 0px 0px -20px;
+margin: 0px 0px 0px 0px;
+}
+
+.journaltext h1{
+font-family: "Indie Flower";  
+color: #000000;
+background-color: #d3d899;
+font-size: 35px; 
+font-weight: normal;
+text-align: center;
+padding: 0px;
+margin: 0 0 3px 0;
+text-shadow: 1px 2px 2px #BAC17A;
+}
+
+.journaltext h2{
+text-shadow: 0 0 2px #fff;
+font-family: "Oswald";  
+color: #000000;
+font-size: 30px; 
+font-weight: normal;
+text-align: center;
+padding: 0px;
+margin: 0;
+}
+
+.journaltext h3{
+font-family: "Patrick Hand"; 
+color: #000000;
+font-size: 14px; 
+font-weight: normal;
+letter-spacing: 1px;
+text-align: left;
+border-bottom: 1px solid #a8adb9;
+padding: 0 10px 3px 10px;
+margin: 0 0 3px 0;
+}
+
+.journaltext h4{
+font-family: "Patrick Hand";  
+color: #000000;
+font-size: 20px; 
+font-weight: normal;
+text-align: center;
+padding: 0px;
+margin: 0;
+position: inside;
+}
+.journaltext h5{ margin: 0; padding: 0;}
+
+ol, ul{ margin: 1; padding: 8; color: #7aa15e;}
+
+ul
+{
+list-style-type: none;
+}
+
+a, a.external{
+font-size: 14px;
+color: #000000;
+text-decoration: none;
+font-weight: normal!important;
+transition: color 0.3s;
+}
+a:hover, a.external:hover {
+text-decoration: none!important;
+color: #c68282;
+}
+
+a.external:after{display:none;}
+.shadow-holder{margin: 0px;padding: 0px;}
+.shadow{padding: 0px;}
+.shadow:hover{padding: 0px;}
+.embedded-image-deviation {vertical-align: middle;margin: 0px;padding: 0px;}
+.embedded-image-deviation img {vertical-align: middle;padding: 0px;}
+.embedded-image-deviation img:hover {padding: 0px;}
+.embedded-image-deviation:hover {padding: 0px;}
+a img{vertical-align: middle;}
+a img:hover{vertical-align: middle;}
+
+.lit{
+padding: 0px;
+width: 120px;
+height: 120px;
+background: #fff;
+border: 2px solid #b2918a;
+-moz-box-shadow: none !important;
+-webkit-box-shadow: none !important; 
+transition: all 1s;
+vertical-align: middle;
+}
+
+.lit:hover{ border: 2px solid #9e3956;}
+
+.lit q strong{
+margin: 5px;
+padding: 2px;
+padding-top: 5px;
+font-family: "Berkshire Swash";  
+color: #000000;
+font-weight: normal;
+font-size: 15px;}
+
+.lit q{
+margin-left: -20px;
+margin-bottom:5px;
+margin-right:5px;
+padding: 0px;
+color: #000000;
+font-size: 12px;
+font-family: "Patrick Hand";
+text-shadow: none;
+}
+
+.lit strong:not(:first-child){border: none;}
+a.lit q{text-shadow: none;}
+.lit img {display: none;}
+
+.text blockquote{
+background: none; 
+color: #000000;
+font-size: 16px;
+font-family: "Patrick Hand";
+margin: 5px;
+padding: 12px;
+border: 1px solid #dcc7b0;
+}
+.text blockquote a, .text blockquote a.external{color: #92abea; text-decoration: underline!important;}
+.text blockquote a:hover, .text blockquote a.external:hover{color: #72798b;}
+
+.user-symbol::before { background-color: transparent; color: #BAC17A;}
+.user-symbol::after { background-color: transparent; color: #fff;}
+
+
+.journalbottom{background: url("https://orig02.deviantart.net/09d2/f/2017/235/0/7/bottom_by_uszatyarbuz-dbl0mt8.png") no-repeat;
+background-position: center;
+height: 300px;
+padding: 0;
+margin: -42px 0 0;
+}
+.journalbox .journalbottom a.commentslink { display: none;}
+.list{ display: none;} 
+
+.credit {
+font-size: 12px;
+color: #000000;
+font-family: "Patrick Hand";
+margin: 0px;
+text-align: right;
+}
+
+.credit a {
+font-family: "Patrick Hand";
+font-size: 12px!important;
+color: #000000!important;
+}
+
+.flexbox {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  overflow: hidden;
+width: 100%;
+max-width: 100%;
+}
+
+.flexbox .coll:nth-child(2) {
+margin: 9px;
+}
+
+.coll{
+width: 100%!important;
+max-width: 100%;
+margin: 9px;
+}
+
+.flexbox .coll:nth-child(2), .coll{
+background-color: #EDE9DD;
+padding: 20px;
+border: 1px solid #a5a196;
+color: #000000;
+font-size: 16px;
+font-family: "Patrick Hand";
+border-radius: 7px;
+border: none;
+box-shadow: 0px 0px 5px #c2c8d7;}
+
+.flexbox .coll:nth-child(2) a, .coll a, .flexbox .coll:nth-child(2) a.external, .coll a.external{
+font-size: 16px;
+color: #000000;
+text-decoration: none;
+font-weight: normal!important;
+transition: color 0.3s;
+}
+
+.flexbox .coll:nth-child(2) a:hover, .coll a:hover, .flexbox .coll:nth-child(2) a.external:hover, .coll a.external:hover{
+text-decoration: none!important;
+color: #000000;
+}
